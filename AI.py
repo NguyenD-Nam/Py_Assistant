@@ -89,26 +89,6 @@ while True:
 		robot_print=robot_brain+"\n"
 
 
-	#											~~~~~ MCK RAP ~~~~~
-	# elif ("play a song" in you or "rap" in you) and "mck" in you:
-	# 	mixer.init()
-	# 	mixer.music.load("giau-vi-ban-sang-vi-vo.mp3")
-	# 	mixer.music.set_volume(0.05)
-	# 	mixer.music.play()
-	# 	while True:
-	# 		print("Press 'p' to pause,\n      'r' to resume")
-	# 		print("      'e' to stop playing song")
-	# 		print("Command:",end="")
-	# 		query = input("  ")
-	# 		if query == 'p':
-	# 			mixer.music.pause()
-	# 		elif query == 'r':
-	# 			mixer.music.unpause()
-	# 		elif query == 'e':
-	# 			mixer.music.stop()
-	# 			break
-	# 	continue
-
 
 	#											~~~~~ WEATHER ~~~~~
 	elif "weather" in you or "weather status" in you or "temperature" in you:
