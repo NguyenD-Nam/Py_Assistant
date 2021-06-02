@@ -4,13 +4,13 @@ Page link: https://nguyend-nam.github.io/Py_Assistant/
 *A simple Python-based AI Assistant for PC*
 Nice to meet you and thank you for visiting! Here are some walk-through instructions for you.
 
-### Set up environment
+### Setting up environment
 
 Open Terminal and do ```pip install``` for all modules needed to run the file such as ```speech_recognition```, ```pyttsx3```, ```pygame``` and ```pyown```(for getting weather information).
 
 About Weather assistant, go to [PythonHowtoProgram](https://pythonhowtoprogram.com/how-to-use-weather-api-to-get-weather-data-in-python-3/) to read the instructions and ways to access the weather info, log in to [OpenWeatherMap](https://openweathermap.org/) and get the API key.
 
-### Start Py_Assistant
+### Starting Py_Assistant
 
 Start the Assistant on Terminal by running ```python AI.py``` (or ```python3 AI.py```).
 
@@ -43,7 +43,7 @@ Start the Assistant on Terminal by running ```python AI.py``` (or ```python3 AI.
 
  
 ### About Developer
-Hello there, my name is Nam Nguyen and I'm currently living in Ho Chi Minh city of Vietnam.  I have coding skills of HTML, CSS, JavaScript, C++ and Python. Here is my personal [Website](https://nguyend-nam.github.io/myWebsite/) and my simple [Portfolio](https://nguyend-nam.github.io/Portfolio/), hope you like my projects on Github.
+Hello there, my name is Nam Nguyen and I'm currently living in Ho Chi Minh city of Vietnam.  I have coding skills of HTML, CSS, JavaScript, C++ and Python. Here is my personal [Website](https://nguyend-nam.github.io/myWebsite/#a) and my simple [Portfolio](https://nguyend-nam.github.io/Portfolio/), hope you like my projects on Github.
 
 ### Support or Contact
 [Github](https://github.com/NguyenD-Nam) | [CodePen](https://codepen.io/your-work/) | [Linkedin](https://www.linkedin.com/in/nguyend-nam/)
