@@ -1,7 +1,7 @@
 # Py_Assistant
 Page link: https://nguyend-nam.github.io/Py_Assistant/
 ## Welcome to Py_Assistant
-A simple Python-based AI Assistant for PC
+*A simple Python-based AI Assistant for PC*
 
 ### Set up environment
 
@@ -45,8 +45,4 @@ Start the Assistant on Terminal by running ```python AI.py``` (or ```python3 AI.
 Hello there, my name is Nam Nguyen and I'm currently living in Ho Chi Minh city, Vietnam.  I have coding relevent skills of HTML, CSS, JavaScript, C++ and Python. Here is my simple HTML-CSS-based [Portfolio](https://nguyend-nam.github.io/Portfolio/), hope you like my projects on Github.
 
 ### Support or Contact
-[Github](https://github.com/NguyenD-Nam)
-
-[CodePen](https://codepen.io/your-work/)
-
-[Email](nguyennamnade22@gmail.com)
+[Github](https://github.com/NguyenD-Nam) | [CodePen](https://codepen.io/your-work/) | [Linkedin](https://www.linkedin.com/in/nguyend-nam/)
