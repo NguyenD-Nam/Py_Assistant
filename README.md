@@ -29,18 +29,19 @@ Start the Assistant on Terminal by running ```python AI.py``` (or ```python3 AI.
 ### Keyword Instructions
 - *Consider mentioning these keywords in your sentence*
 
-**Hello:** for greeting.
+  - **Hello:** for greeting.
 
-**Time:** for time information.
+  - **Time:** for time information.
 
-**Date:** for date information.
+  - **Date:** for date information.
 
-**Weather:** for weather information.
+  - **Weather:** for weather information.
 
-**Open** and **Chrome:** for opening Chrome.
+  - **Open** and **Chrome:** for opening Chrome.
 
-**Close** and **Window:** for closing foreground window.
+  - **Close** and **Window:** for closing foreground window.
 
+  - **Bye**:** for turning off the AI.
  
 ### About Developer
 Hello there, my name is Nam Nguyen and I'm currently living in Ho Chi Minh city of Vietnam.  I have coding skills of HTML, CSS, JavaScript, C++ and Python. Here is my personal [Website](https://nguyend-nam.github.io/myWebsite/#a) and my simple [Portfolio](https://nguyend-nam.github.io/Portfolio/), hope you like my projects on Github.
