@@ -1,6 +1,6 @@
 # Py_Assistant
 
-# Page link: https://nguyend-nam.github.io/Py_Assistant/
+### `Page link:` https://nguyend-nam.github.io/Py_Assistant/
 
 ## Welcome to Py_Assistant
 *A simple Python-based AI Assistant for PC*
