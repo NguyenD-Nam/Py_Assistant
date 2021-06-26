@@ -46,7 +46,7 @@ Start the Assistant on Terminal by running ```python AI.py``` (or ```python3 AI.
   - **Bye:** for turning off the AI.
  
 ### About Developer
-Hello there, my name is Nam Nguyen and I'm currently living in Ho Chi Minh city of Vietnam.  I have coding skills of HTML, CSS, JavaScript, C++ and Python. Here is my personal [Website](https://nguyend-nam.github.io/myWebsite/#a) and my simple [Portfolio](https://nguyend-nam.github.io/Portfolio/), hope you like my projects on Github.
+Hello there, my name is Nam Nguyen and I'm currently living in Ho Chi Minh city of Vietnam.  I have coding skills of HTML, CSS, JavaScript, C++ and Python. Here is my personal [Website](https://nguyend-nam.github.io/Portfolio_Website/) and my simple [Flash-card Portfolio](https://nguyend-nam.github.io/myWebsite/#a), hope you like my projects on Github.
 
 ### Support or Contact
 [Github](https://github.com/NguyenD-Nam) | [CodePen](https://codepen.io/nguyend-nam) | [Linkedin](https://www.linkedin.com/in/nguyend-nam/)
